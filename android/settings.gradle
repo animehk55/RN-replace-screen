@@ -1,0 +1,3 @@
+rootProject.name = 'Replace_Screen'
+
+include ':app'
